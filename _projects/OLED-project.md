@@ -3,11 +3,7 @@ title: 如果你也刚好抬头看
 
 notitle: false
 
-description: |
 
-people:
-  - profx
-  - chenxi
 
 layout: project
 image: /img/projects/66.jpg
